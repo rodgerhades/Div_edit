@@ -1,0 +1,28 @@
+/* Documento CSS*/
+
+*{
+	margin:0;
+	padding:0;
+}
+
+.vermelho{
+	position:relative;
+	width:250px; height:250px;
+	background-color:#800000;
+	border:2px solid #000000;
+	font-family:arial; font-size:20px; color:#ffffff;
+	float:left; 
+	margin-left:10px; margin-top:25px;
+	padding:15px;
+}
+
+.azul{
+	position:relative;
+	width:250px; height:250px;
+	background-color:#000080;
+	border:2px solid #000000;
+	font-family:arial; font-size:20px; color:#ffffff; 
+	float:left;
+	margin-left:10px; margin-top:25px; 
+	padding:15px;
+}
